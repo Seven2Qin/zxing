@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/seven/Workspace/zxing/zxing-qianmi/assets"/><source path="/Users/seven/Workspace/zxing/zxing-qianmi/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/seven/Workspace/zxing/zxing-qianmi/src/release/assets"/></dataSet></merger>

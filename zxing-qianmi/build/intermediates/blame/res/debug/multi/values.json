@@ -1,0 +1,465 @@
+[
+    {
+        "outputFile": "/Users/seven/Workspace/zxing/zxing-qianmi/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1037,
+                        "endColumn": 69,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 127,
+                    "endColumn": 60,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1107,
+                        "endColumn": 58,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 63,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1166,
+                        "endColumn": 61,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 64,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1228,
+                        "endColumn": 62,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 51,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1292,
+                        "endColumn": 49,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 64,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 632,
+                        "endColumn": 62,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 53,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 731,
+                        "endColumn": 51,
+                        "endOffset": 780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 53,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 783,
+                        "endColumn": 51,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 53,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 835,
+                        "endColumn": 51,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 58,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 887,
+                        "endColumn": 56,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 57,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 980,
+                        "endColumn": 55,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 46,
+                    "endOffset": 1623
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 873,
+                        "endColumn": 44,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1628,
+                    "endColumn": 47,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 970,
+                        "endColumn": 45,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 41,
+                    "endOffset": 1713
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_ids.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 632,
+                        "endColumn": 39,
+                        "endOffset": 669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1718,
+                    "endColumn": 48,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 720,
+                        "endColumn": 46,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 51,
+                    "endOffset": 1814
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 767,
+                        "endColumn": 49,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1819,
+                    "endColumn": 57,
+                    "endOffset": 1872
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 817,
+                        "endColumn": 55,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1877,
+                    "endColumn": 49,
+                    "endOffset": 1922
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 672,
+                        "endColumn": 47,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1927,
+                    "endColumn": 53,
+                    "endOffset": 1976
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 918,
+                        "endColumn": 51,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1981,
+                    "endColumn": 58,
+                    "endOffset": 2035
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res-orig/values/zxing_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 632,
+                        "endColumn": 56,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2040,
+                    "endColumn": 46,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res-orig/values/zxing_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 689,
+                        "endColumn": 44,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 143,
+                    "endOffset": 2226
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res-orig/values/zxing_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 734,
+                        "endColumn": 141,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2231,
+                    "endColumn": 112,
+                    "endOffset": 2339
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res-orig/values/zxing_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 876,
+                        "endColumn": 110,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2344,
+                    "endLine": 33,
+                    "endColumn": 10,
+                    "endOffset": 2439
+                },
+                "from": {
+                    "file": "/Users/seven/Workspace/zxing/zxing-qianmi/res/values/zxing_themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 53,
+                        "endLine": 3,
+                        "endColumn": 10,
+                        "endOffset": 148
+                    }
+                }
+            }
+        ]
+    }
+]

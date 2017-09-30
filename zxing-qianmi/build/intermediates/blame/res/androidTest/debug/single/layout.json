@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/seven/Workspace/zxing/zxing-qianmi/build/intermediates/res/merged/androidTest/debug/layout/zxing_barcode_scanner.xml",
+        "source": "/Users/seven/Workspace/zxing/zxing-qianmi/build/intermediates/bundles/debug/res/layout/zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "/Users/seven/Workspace/zxing/zxing-qianmi/build/intermediates/res/merged/androidTest/debug/layout/zxing_capture.xml",
+        "source": "/Users/seven/Workspace/zxing/zxing-qianmi/build/intermediates/bundles/debug/res/layout/zxing_capture.xml"
+    }
+]
