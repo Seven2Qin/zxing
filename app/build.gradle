@@ -22,5 +22,6 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:25.3.1'
-    compile project(':zxing-qianmi')
+    compile 'com.github.Seven2Qin:zxing:1.0.0'
+//    compile project(':zxing-qianmi')
 }
